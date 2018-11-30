@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['fcc',['fcc',['../afu__def_8h.html#a858b401d3b9343434c874882e79749d4a623bb971191e09ef5870812d136ed3b0',1,'afu_def.h']]],
+  ['figb',['figb',['../afu__def_8h.html#a858b401d3b9343434c874882e79749d4a988371aec6e280a04e2153315bb4b505',1,'afu_def.h']]],
+  ['floater',['floater',['../afu__def_8h.html#a858b401d3b9343434c874882e79749d4a22f4d8fcb6d8a53ceb0b5d9089f885e9',1,'afu_def.h']]],
+  ['forex',['forex',['../afu__def_8h.html#a858b401d3b9343434c874882e79749d4aa1d1e9f4e397b035793ff863329b86e7',1,'afu_def.h']]],
+  ['fra',['fra',['../afu__def_8h.html#a858b401d3b9343434c874882e79749d4a9df3fd2bf279673f965d6f50a3f73438',1,'afu_def.h']]],
+  ['fra_5fdat_5f20',['fra_dat_20',['../afu__def_8h.html#ab241dba823a09eab43d383d4d759544da2d6bda96a130cd533c1b9691f44ed860',1,'afu_def.h']]],
+  ['fra_5fdat_5f31',['fra_dat_31',['../afu__def_8h.html#ab241dba823a09eab43d383d4d759544daa8286b7728822e818d3b7c3d0d5d6a98',1,'afu_def.h']]],
+  ['fra_5fdat_5f33',['fra_dat_33',['../afu__def_8h.html#ab241dba823a09eab43d383d4d759544daa9b5f9f124bc155a206254a3207946f1',1,'afu_def.h']]],
+  ['fra_5fdat_5fbad',['fra_dat_bad',['../afu__def_8h.html#ab241dba823a09eab43d383d4d759544da7062ce95f8484bbf72586496e0639edd',1,'afu_def.h']]],
+  ['fra_5fdat_5ffree',['fra_dat_free',['../afu__def_8h.html#ab241dba823a09eab43d383d4d759544dab71f658b3311be7472c28e4ada3565f7',1,'afu_def.h']]],
+  ['fra_5fdat_5flib_5f1',['fra_dat_lib_1',['../afu__def_8h.html#ab241dba823a09eab43d383d4d759544da4f7e6cb4f382105c34a7c144c9f1b28d',1,'afu_def.h']]],
+  ['fra_5fdat_5flib_5f2',['fra_dat_lib_2',['../afu__def_8h.html#ab241dba823a09eab43d383d4d759544daef4450a563d003c1e33a22931902dad1',1,'afu_def.h']]],
+  ['fra_5fdat_5flib_5f3',['fra_dat_lib_3',['../afu__def_8h.html#ab241dba823a09eab43d383d4d759544da234d823a86c51c646247982ef999ec4c',1,'afu_def.h']]],
+  ['fra_5fdat_5fspot',['fra_dat_spot',['../afu__def_8h.html#ab241dba823a09eab43d383d4d759544da96abffdb7ef2f7c1bb20d71bdd629ac3',1,'afu_def.h']]],
+  ['frn',['frn',['../afu__def_8h.html#a858b401d3b9343434c874882e79749d4a5a11d899fb4505c8646340399b10106a',1,'afu_def.h']]],
+  ['fund',['fund',['../afu__def_8h.html#a858b401d3b9343434c874882e79749d4a9b6d2327f99355cb2b8e8b2267df73ee',1,'afu_def.h']]],
+  ['future',['future',['../afu__def_8h.html#a858b401d3b9343434c874882e79749d4a18fe78d2aa5307ae7bd2a9e2b04a3470',1,'afu_def.h']]]
+];

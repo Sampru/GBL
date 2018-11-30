@@ -1,0 +1,25 @@
+var gb_dmd_8c =
+[
+    [ "DAT_COL_TYP", "gb_dmd_8c.html#adccaa50fbdba2bcbe37e9f43736a95d0", null ],
+    [ "GBdmdBlkInTra", "gb_dmd_8c.html#a11cc63ac51bb7ae27d1798d37bb92067", null ],
+    [ "GBdmdColExs", "gb_dmd_8c.html#ab9dc33e8ca0e82a5b226b613723fe16c", null ],
+    [ "GBdmdCreTblLdSch", "gb_dmd_8c.html#a21b2c62ab0ed32b51c4b8b9e143ec299", null ],
+    [ "GBdmdCreUpdTblLd", "gb_dmd_8c.html#a1d386134c33a500c3a87a6bcf8f16916", null ],
+    [ "GBdmdCst2Int", "gb_dmd_8c.html#a8e4a67be8cfd3800932b64e91f4a7167", null ],
+    [ "GBdmdDbSizSpaInf", "gb_dmd_8c.html#a4fa7367604202bc64ead4c600a2c185a", null ],
+    [ "GBdmdEmpDbLog", "gb_dmd_8c.html#ace7912db5810602946cc0e109fcf2f42", null ],
+    [ "GBdmdGetColSiz", "gb_dmd_8c.html#a77768f2ba0dbc090b60d08a9a99e0ad5", null ],
+    [ "GBdmdGetDat", "gb_dmd_8c.html#a56b8ceddbf86517c4ea0f76c8a42e5d4", null ],
+    [ "GBdmdGetDatHou", "gb_dmd_8c.html#a43fff46e1f7b4bbaa9b1176ffb1b2a91", null ],
+    [ "GBdmdGetDbo", "gb_dmd_8c.html#a95ad98fa1b6dca748faee0d2c3f9ff13", null ],
+    [ "GBdmdGetHou", "gb_dmd_8c.html#a9f935c94aea01b0503da1726a5a89676", null ],
+    [ "GBdmdGetTabCol", "gb_dmd_8c.html#acca44fa2c281b8928628e9ca14da774c", null ],
+    [ "GBdmdGetTabInx", "gb_dmd_8c.html#a66a39cbf6fbef4759f11f0db4a9e44d1", null ],
+    [ "GBdmdLckMulTab", "gb_dmd_8c.html#a201e7e7aa929f252465a9df9e32f2760", null ],
+    [ "GBdmdLckTab", "gb_dmd_8c.html#a0b4fb56b65ea12e3341200ea1097cc67", null ],
+    [ "GBdmdSelCnt", "gb_dmd_8c.html#ae91592eeec243e744e82a343470fd8e1", null ],
+    [ "GBdmdSelCnt4Itm", "gb_dmd_8c.html#a4845eff519bedd1677d332876331ac6b", null ],
+    [ "GBdmdSetIsoLvl", "gb_dmd_8c.html#a21e5be2b29e6ec064736f8a00d6e8c01", null ],
+    [ "GBdmdTblExs", "gb_dmd_8c.html#a7a0739856c50a690beaec8581ba709de", null ],
+    [ "lcGBdmdGetStrCol", "gb_dmd_8c.html#a3edaa29b1c9cbe5e8674c8c14afa7778", null ]
+];

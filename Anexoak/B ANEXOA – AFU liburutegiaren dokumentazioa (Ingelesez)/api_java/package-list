@@ -1,0 +1,7 @@
+com.almis.afu.core.Constants
+com.almis.afu.core.controller
+com.almis.afu.core.manager
+com.almis.afu.mkt.benchmarks
+com.almis.afu.mkt.constants
+com.almis.afu.mkt.controller
+com.almis.afu.mkt.manager

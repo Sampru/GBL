@@ -1,0 +1,36 @@
+var _alu_wbs_sfi_def_8h =
+[
+    [ "ALUMCR_SFI_DLL", "_alu_wbs_sfi_def_8h.html#a3cf4479ceccf1abbc357d246f727b7d2", null ],
+    [ "ALUMCR_SFI_EXP", "_alu_wbs_sfi_def_8h.html#a7074fe5b1e957138978ec3ee3acac2cf", null ],
+    [ "ALUwbsSfiEnuSfp", "_alu_wbs_sfi_def_8h.html#a8ec42d8af7a8e602badea22754f47344", [
+      [ "ALUwbsSfiEnuSfpGetSpeDtaPtr", "_alu_wbs_sfi_def_8h.html#a8ec42d8af7a8e602badea22754f47344aa86719bea7cef88f5df8c3228a5c802c", null ],
+      [ "ALUwbsSfiEnuSfpGetSpeMntPtr", "_alu_wbs_sfi_def_8h.html#a8ec42d8af7a8e602badea22754f47344a23118560374cbba62b579058e4ad663f", null ],
+      [ "ALUwbsSfiEnuSfpIniSpe", "_alu_wbs_sfi_def_8h.html#a8ec42d8af7a8e602badea22754f47344af42f379e1eabfdc779cf6901118a7f0b", null ],
+      [ "ALUwbsSfiEnuSfpEndSpe", "_alu_wbs_sfi_def_8h.html#a8ec42d8af7a8e602badea22754f47344a8a073fe68dbefd436dcb4c3535295d3b", null ],
+      [ "ALUwbsSfiEnuSfpErrSpe", "_alu_wbs_sfi_def_8h.html#a8ec42d8af7a8e602badea22754f47344a3583bff58efe797f54e6c89615b09584", null ],
+      [ "ALUwbsSfiEnuSfpRunSpeWbs", "_alu_wbs_sfi_def_8h.html#a8ec42d8af7a8e602badea22754f47344a287f446579941ceff822c8eba409f24e", null ],
+      [ "ALUwbsSfiEnuSfpIniSpeArg", "_alu_wbs_sfi_def_8h.html#a8ec42d8af7a8e602badea22754f47344aedfff2d6d90474df32974b8ffc53a681", null ]
+    ] ],
+    [ "ALUwbsEndSpe", "_alu_wbs_sfi_def_8h.html#ac03503df90cc38019c1349ec898fab98", null ],
+    [ "ALUwbsErrSpe", "_alu_wbs_sfi_def_8h.html#ae89c90d413788b2ed5c976afd268392a", null ],
+    [ "ALUwbsGetSpeDtaPtr", "_alu_wbs_sfi_def_8h.html#a9e00e1ab6d59eb5e860b39db597fe561", null ],
+    [ "ALUwbsGetSpeMntPtr", "_alu_wbs_sfi_def_8h.html#a876e1bd08ff72ab98f48406a540da9fb", null ],
+    [ "ALUwbsIniSpe", "_alu_wbs_sfi_def_8h.html#aa64e597be531ee67ff68546f762a900e", null ],
+    [ "ALUwbsIniSpeArg", "_alu_wbs_sfi_def_8h.html#a3b9e8334546ad6c9ddd0651814a9dfa6", null ],
+    [ "ALUwbsSfiFvdIniSpeFunPtr", "_alu_wbs_sfi_def_8h.html#ae2cb6cefd4ae5b2c76388abac9a57e18", null ],
+    [ "WBSrunSpeWbs", "_alu_wbs_sfi_def_8h.html#a26222054f5f30aba7099444d8c8ec99a", null ],
+    [ "ALUwbsSfiTypSfpEndSpe", "_alu_wbs_sfi_def_8h.html#aaea9cee4b2dcd55011886207f2fc88f3", null ],
+    [ "ALUwbsSfiTypSfpErrSpe", "_alu_wbs_sfi_def_8h.html#acc2b26c73e126c3645d019854ee8deb7", null ],
+    [ "ALUwbsSfiTypSfpGetSpeDtaPtr", "_alu_wbs_sfi_def_8h.html#a4bb18aee6edb2d793ea0943a52529f68", null ],
+    [ "ALUwbsSfiTypSfpGetSpeMntPtr", "_alu_wbs_sfi_def_8h.html#a603177e39d2bfa3be5709d99cdbe7a7a", null ],
+    [ "ALUwbsSfiTypSfpIniSpe", "_alu_wbs_sfi_def_8h.html#a3526ea15109be6ea3170a3ad0707220f", null ],
+    [ "ALUwbsSfiTypSfpIniSpeArg", "_alu_wbs_sfi_def_8h.html#ac98b5cf8ceb6b43b2e82acb02b675d7d", null ],
+    [ "ALUwbsSfiTypSfpRunSpeWbs", "_alu_wbs_sfi_def_8h.html#a6c210a672e0efa94c24adaa9c6d0d4aa", null ],
+    [ "AluWbsSfpEndSpe", "_alu_wbs_sfi_def_8h.html#a2b5b3cd06b9363d5dfe1bc9a38e8846a", null ],
+    [ "AluWbsSfpErrSpe", "_alu_wbs_sfi_def_8h.html#a01df1a036f611b50375bc5388bef1c18", null ],
+    [ "AluWbsSfpGetSpeDtaPtr", "_alu_wbs_sfi_def_8h.html#a65fd364882a25a3d2f73319cd6485104", null ],
+    [ "AluWbsSfpGetSpeMntPtr", "_alu_wbs_sfi_def_8h.html#a8a37fe4aa063e1af315c9f8fb001d92b", null ],
+    [ "AluWbsSfpIniSpe", "_alu_wbs_sfi_def_8h.html#ac2d064e79509ee8141579418455f5ba2", null ],
+    [ "AluWbsSfpIniSpeArg", "_alu_wbs_sfi_def_8h.html#a2db2585b02a6821501c71f971d53673e", null ],
+    [ "AluWbsSfpRunSpeWbs", "_alu_wbs_sfi_def_8h.html#a68503ee97215d8417a9c8b3d425490c5", null ]
+];

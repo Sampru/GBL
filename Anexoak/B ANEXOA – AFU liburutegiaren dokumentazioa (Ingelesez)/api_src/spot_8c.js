@@ -1,0 +1,25 @@
+var spot_8c =
+[
+    [ "SPOT_NOT_FOUND", "spot_8c.html#aae53cc3f7f19812887b688be57b8c260", null ],
+    [ "SPOT_TRT", "spot_8c.html#af340a62413da824471248822d791a2ab", null ],
+    [ "BBconvertIntoSpot", "spot_8c.html#aa1186890b47602bcfe6d788ae359326d", null ],
+    [ "BBconvertIntoSpotAdd", "spot_8c.html#a72fa8707586e52932c2753e69f85ecbe", null ],
+    [ "BBconvertIntoSpotMrk", "spot_8c.html#a5a99dc6231a7048e6a02f1e624362da5", null ],
+    [ "BBconvertOneIntoSpot", "spot_8c.html#ac258fbf4fc4a73efb760bd2c7d142494", null ],
+    [ "lcBBconvertIntoSpotMrk", "spot_8c.html#a82c2952bd4e7c7845768752546bf2f24", null ],
+    [ "SPOTconv", "spot_8c.html#a7efb597b3feedea829bcb28d2ed66496", null ],
+    [ "SPOTconvUnit", "spot_8c.html#a86ccd60486bd94bebcc10b1f3d556ad7", null ],
+    [ "SPOTctlErrLstDat", "spot_8c.html#a8369653bad15462aacbdbfd0443baf6a", null ],
+    [ "SPOTdisableAlert", "spot_8c.html#a2b42c5fcf273e21793971cb3ca3de242", null ],
+    [ "SPOTget", "spot_8c.html#a25a684875f6cc671c402fc75c82e1506", null ],
+    [ "SPOTgetSpo4DatFrmLdSpo", "spot_8c.html#aa48ee1458649bd3b3fe4f917fa81a186", null ],
+    [ "SPOTgetUnit", "spot_8c.html#a574764ef782f4a24692ff4402351d2d4", null ],
+    [ "SPOThisInit", "spot_8c.html#acb0a8d6fab349a1aa587a5b315cee615", null ],
+    [ "SPOTinit", "spot_8c.html#acd4ebf05422e68d7e85a1f722fae711b", null ],
+    [ "SPOTinitDev", "spot_8c.html#a525edcfa58dfeac5db57547b736948a6", null ],
+    [ "SPOTinitEUR", "spot_8c.html#a0a73a084bbd02ce8bf81e918dc7429ed", null ],
+    [ "SPOTinitForLdDat", "spot_8c.html#a641b058e81f90647dba9ba5876fd6db1", null ],
+    [ "SPOTinitForPer", "spot_8c.html#a5f90fcdd0bd546bfcaed18d59156a221", null ],
+    [ "SPOTnormaliseEur", "spot_8c.html#a32a996e46ca701150e3c4c50b386612b", null ],
+    [ "lcSpotFlag", "spot_8c.html#ae02af30de71e63daf0c39e554a985fcd", null ]
+];
